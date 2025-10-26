@@ -46,6 +46,12 @@ The management needed visibility into their revenue and operation performance fr
 - Storytelling
 - Clear Communication
 
-## Results
+## Results and Insights
+- The top-performing region bringing in the most revenue was identified (West region)
+- Product category generating the highest revenue was identified (Technology)
+- Customer segment driving the highest order was also revealed (Corporate)
+- Top 4 States driving the orders were California, New york, Texas and Florida respectively
+- 
+
 ## Recommendation
 ## Next Steps
