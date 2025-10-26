@@ -34,7 +34,18 @@ The management needed visibility into their revenue and operation performance fr
 ## Dashboard
 <img width="952" height="536" alt="Screenshot 2025-10-26 at 15 57 45" src="https://github.com/user-attachments/assets/69af0180-4da9-4231-bc71-c39e0309c562" />
 
-## Skills
+## Skills Applied
+- Data Cleaning
+- VLOOKUP/XLOOKUP
+- Formulas & Logic Functions
+- Pivot Tables & Charts
+- KPI Tracking
+- Attention to detail
+- Dashboard Design
+- Data Visualization
+- Storytelling
+- Clear Communication
+
 ## Results
 ## Recommendation
 ## Next Steps
