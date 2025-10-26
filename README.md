@@ -8,7 +8,7 @@ I worked on transforming WorkNest Supplies’ raw dataset from messy to meaningf
 ## Business Problem
 The management needed visibility into their revenue and operation performance from their raw data. They want to have an idea on the impact of discounts and shipping efficiency as well as have a visual report of KPIs across regions, customers, and product segments.<a href="https://github.com/Phartemah/Sales-and-Operations-Performance-Analysis_Excel/blob/main/Screenshot%202025-10-26%20at%2015.57.45.png">View Dashboard</a> 
 
-## Key Metrics and KPIs
+## Key Business metrics and KPIs
 - Total Sales by each Region.
 - Total Sales by Product Category.
 - Orders by Customer Segment.
@@ -20,7 +20,7 @@ The management needed visibility into their revenue and operation performance fr
 - Best-Selling Product. 
 
 ## Methodology
-- I read and understoon the project brief to keep analysis focused.
+- I read and understood the project brief to keep analysis focused.
 - Explored the dataset to understand the structure and spot issues.
 - Made a backup copy of raw file.
 - Cleaned the data to remove errors and inconsistencies and ensured accuracy.
