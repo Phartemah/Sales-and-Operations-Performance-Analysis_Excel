@@ -47,17 +47,17 @@ The management needed visibility into their revenue and operation performance fr
 - Clear Communication
 
 ## Key results and Business insights
-- Total Revenue was $1,792,887 reaching 90% of the company’s $2M target.
+- Total Revenue was $1,792,887, reaching 90% of the company’s $2M target.
 - Total Orders was 1,953 achieving 89% of the 2,200 order goal.
 - Average Shipping Days is 2days indicating efficient order fulfillment.
-- Office Machines ranked top selling product indicationg top revenue contributor.
+- Office Machines ranked top selling product indicating top revenue contributor.
 - West was the top-performing region with $507,307 in total sales.
 - Corporate clients were the leading Customer Segment with the most orders (684).
-- In the product category, Technology generated the highest revenue with ₦688,315.
+- In the product category, Technology generated the highest revenue with $688,315.
 - Top Performing States are California, New York, Texas, and Florida respectively.
 - Sales peaks observed in April, suggesting strong quarterly seasonality.
 
-## Recommendation
+## Recommendations
 - Strengthen inventory and marketing focus on Technology and Office Machines categories to sustain high demand.
 - Expand operations and promotional efforts in high-performing regions and states, especially the West and California.
 - Engage Corporate customers through loyalty programs or bundled offers to retain key accounts.
@@ -67,4 +67,3 @@ The management needed visibility into their revenue and operation performance fr
 - Integrate cost data to assess profit margins by product and region.
 - Automate data updates and scaling using Power Query or Power BI.
 - Add forecasting visuals to predict upcoming sales trends and inventory needs.
-- Continue enhancing dashboard interactivity and performance tracking for quarterly reviews.
